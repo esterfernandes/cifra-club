@@ -101,7 +101,7 @@ p#visu{
 
 
 .info_banda{
-	margin-left: 15px;
+	margin-left: 40px;
 }
 
 #nome_banda{
@@ -114,3 +114,15 @@ p#visu{
 	height: 30px;
 	border-radius: 50%;
 }
+#dropdown{
+	width: 79px;
+	height: 35px
+}
+
+.links_pag{
+	color: black;
+}
+#letra{
+	color: black;
+}
+
