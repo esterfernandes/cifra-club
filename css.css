@@ -61,6 +61,7 @@ p#visu{
 }
 .rodape{
 	background-color: black;
+	margin-top: 100px;
 }
 #alfabeto{
  color: white;
@@ -91,15 +92,6 @@ p#visu{
 }
 
 
-
-
-
-
-
-
-
-
-
 .info_banda{
 	margin-left: 40px;
 }
@@ -126,3 +118,6 @@ p#visu{
 	color: black;
 }
 
+.video{
+	margin-left: 250px;
+}
