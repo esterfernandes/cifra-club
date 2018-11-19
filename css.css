@@ -16,6 +16,17 @@ div img{
 	float: left;
 }
 
+
+.mais_acesso{
+	margin-top: 100px;
+}
+.prim_coluna{
+	margin-top: 0px;
+}
+
+.seg_coluna{
+	margin-top: 50px;
+}
 h3{
 	margin-top: 10px;
 }
