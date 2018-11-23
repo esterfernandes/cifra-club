@@ -27,13 +27,13 @@ div img{
 .seg_coluna{
 	margin-top: 50px;
 }
-h3{
+#top_music{
 	margin-top: 10px;
 }
 h4{
 	margin-top: 48px;
 }
-#nome_musica{
+.nome_musica{
 color: black;
 }
 
@@ -131,4 +131,14 @@ p#visu{
 
 .video{
 	margin-left: 250px;
+}
+
+#img_comentario{
+	height: 60px;
+	width: 65px;
+	border-radius: 50%;
+}
+
+#distancia{
+	margin-top: 55px;
 }
