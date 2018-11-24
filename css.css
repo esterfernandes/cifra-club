@@ -61,7 +61,7 @@ p#visu{
 	float: left;
 }
 
-#nome_video{
+.nome_video{
 	color: #FE642E;
 
 }
@@ -74,6 +74,7 @@ p#visu{
 	background-color: black;
 	margin-top: 100px;
 }
+
 #alfabeto{
  color: white;
  }
@@ -125,9 +126,7 @@ p#visu{
 .links_pag{
 	color: black;
 }
-#letra{
-	color: black;
-}
+
 
 .video{
 	margin-left: 250px;
