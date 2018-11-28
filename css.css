@@ -34,7 +34,7 @@ h4{
 	margin-top: 48px;
 }
 .nome_musica{
-color: black;
+	color: black;
 }
 
 .categoria{
@@ -76,8 +76,8 @@ p#visu{
 }
 
 .alfabeto{
- color: white;
- }
+	color: white;
+}
 #b_google{
 	margin-left: 10px;
 }
@@ -140,4 +140,6 @@ p#visu{
 
 #distancia{
 	margin-top: 55px;
+
 }
+#espaco{
