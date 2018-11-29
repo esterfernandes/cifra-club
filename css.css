@@ -53,12 +53,8 @@ h4{
 #melim{
 	float: left;
 }
-p{
+.opaco{
 	opacity: 0.5;
-}
-
-p#visu{
-	float: left;
 }
 
 .nome_video{
